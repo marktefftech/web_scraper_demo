@@ -123,7 +123,7 @@ def get_all_coil_machines():
         driver.implicitly_wait(10)
         get_max_on_page()
         print_list("Electric Coil binding machines")
-        driver.execute_script("window.history.go(-1)")
+        driver.execute_script("window.history.go(-2)")
         time.sleep(1)
 
     # nav to the fourth tile-right (from the left) category of type machine
