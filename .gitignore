@@ -2,5 +2,6 @@
 .env
 .venv
 env/
+myb_scraper_env/
 venv/
 ENV/
