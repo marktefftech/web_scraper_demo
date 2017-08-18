@@ -1,4 +1,5 @@
 # Web Scraper Demo
+## Demo Video: [Selenium with Python Demo](https://youtu.be/5Hsv9RZg09Q)
 
 Selenium with Python Web Scraper Demo
 
@@ -11,19 +12,19 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 1. A virtual environment (suggested but not required)
-2. Chrome Driver: https://chromedriver.storage.googleapis.com/index.html?path=2.31/
-  a. Download the correct version for your os
-  b. unzip
-  c. Make sure it’s in your PATH, e. g., place it in /usr/bin or /usr/local/bin
-    i. For Windows, see documentation: https://selenium-python.readthedocs.io/installation.html#detailed-instructions-for-windows-users
+2. [Chrome Driver](https://chromedriver.storage.googleapis.com/index.html?path=2.31/)
+- Download the correct version for your os
+- unzip
+- Make sure it’s in your PATH, e. g., place it in /usr/bin or /usr/local/bin
+- For Windows, see documentation: [Detailed instructions for Windows users](https://selenium-python.readthedocs.io/installation.html#detailed-instructions-for-windows-users)
 3. Install Selenium:
-  a. You can simply install Selenium using pip
+- You can simply install Selenium using pip
 
 ```
 pip install selenium
 ```
 
-  b. Alternativaly, you can install Selenium via the requirements.txt file (after cloning or downloading this repo).
+4. Alternativaly, you can install Selenium via the requirements.txt file (after cloning or downloading this repo).
 
 ```
 pip install -r requirements.txt
