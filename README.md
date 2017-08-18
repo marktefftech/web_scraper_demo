@@ -1,7 +1,7 @@
 # Web Scraper Demo
-## Demo Video: [Selenium with Python Demo](https://youtu.be/5Hsv9RZg09Q)
+### Demo Video: [Watch here on Youtube](https://youtu.be/5Hsv9RZg09Q)
 
-Selenium with Python Web Scraper Demo
+This is a quick tutorial on how to use Selenium with Python to create web scraper. The web scraper will pull up a website and record product information and price. You can use my script to run on your own computer. Then improve it to best meet your project needs. 
 
 ## Getting Started
 
